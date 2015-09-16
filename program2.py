@@ -1,7 +1,7 @@
 # __author__ = Evan Sauers (sauerseb)
 
 # CIS-125-82A
-# convert.py
+# program2.py
 #
 # This program computes and prints a table of Celsius temperatures and the Fahrenheit equivalents every 10 degrees from 0C to 100C.
 
