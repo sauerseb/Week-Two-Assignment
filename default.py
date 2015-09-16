@@ -15,8 +15,23 @@ __author__ = 'Your Name'
 
 # Write program code here
 
+# Ask user for a temp in Fahrenheit
+# Convert to Celsius
+# (F-32) * 5 / 9
+
+# Output answer to user
+
+
 # Input
 
+F = eval(input("Please enter a temp in Fahrenheit: "))
+
+C = (F-32) * 5 / 9
+
+print("The temp" , F, " in Fahrenheit is equal to " , C, "Celsius")
+
 # Process
+
+
 
 # Output
